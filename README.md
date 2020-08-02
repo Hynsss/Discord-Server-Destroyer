@@ -86,3 +86,5 @@ Once the program has connected to the API, run one of the commands below in te s
 I've worked hard to code this selfbot hupefully you will show me some support, even if I don't get donations. That said, I know there are people out there that may still want to donate just to show their appreciation so this is for you guys. Thanks in advance!
 
 [**Donate Here!**](https://www.paypal.me/mmirza514) ☕
+
+[![Run on Repl.it](https://repl.it/badge/github/Mydract/Discord-Server-Destroyer)](https://repl.it/github/Mydract/Discord-Server-Destroyer)
